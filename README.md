@@ -1,2 +1,2 @@
 # Hackathon
-Repositório do quiz desenvolvido para o Hackathon.
+Quiz desenvolvido para o Hackathon.
